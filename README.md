@@ -1,6 +1,8 @@
 # 💫 Acerca de mi:
 ¡Hola! Soy un apasionado desarrollador web con experiencia en la creación de sitios web atractivos y funcionales. Mi enfoque principal está en el desarrollo Web y Linux donde he trabajado en numerosos proyectos para clientes satisfechos.<br><br>Además, actualmente esperando graduación ingeniería de sistemas (Julio 2024), lo que me permite combinar mi pasión por la programación con una comprensión profunda de los principios fundamentales de la informática. Estoy constantemente buscando oportunidades para expandir mis conocimientos y habilidades en esta área en constante evolución.<br><br>Mi viaje en el desarrollo web comenzó con la curiosidad y el deseo de crear soluciones innovadoras. A lo largo de los años, he adquirido experiencia en lenguajes como HTML, CSS, JavaScript, así como en el uso de herramientas y frameworks modernos para optimizar el rendimiento y la usabilidad de los sitios web.<br><br>Además, disfruto explorando nuevas tecnologías y estoy emocionado por las posibilidades que ofrece el mundo del desarrollo web. Mi objetivo es seguir aprendiendo y creciendo en este campo, aportando soluciones creativas y eficientes a los desafíos que se presenten.<br><br>Actualmente soy freelancer en la plataforma Workana con nivel Black y trabajo sobre un proyecto Nextcloud, Si estás interesado en trabajar juntos o simplemente quieres conectarte, no dudes en contactarme.<br><br>¡Gracias por visitar mi perfil!<br><br>
 
+---
+[![](https://visitcount.itsvg.in/api?id=diegmero&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Redes Sociales:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/diegoromero70) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1105314556122775613) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100045303229905) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/diego-alejandro-romero-mercado-3858b6208) 
@@ -18,8 +20,4 @@
 
 ### 🔝 Contribuciones en Repositorios
 ![](https://github-contributor-stats.vercel.app/api?username=diegmero&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=diegmero&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
