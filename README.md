@@ -1,5 +1,5 @@
 # 💫 Acerca de mi:
-¡Hola! Soy ingeniero de sistemas | SRE | apasionado por programación y Cloud, DevOps, SRE, me actualizo constantemente para contribuir a esta bonita área de tecnologías.
+¡Hola! Soy ingeniero de sistemas | apasionado por Observabilidad SRE | me actualizo constantemente para contribuir a esta bonita área de tecnologías, he creado varios proyectos a partir de análisis y estrategia.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=diegmero&icon=0&color=0)](https://visitcount.itsvg.in)
