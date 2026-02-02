@@ -48,14 +48,3 @@ Seguridad:
 </div>
 
 <br>
-
-
-<div align="center">
-
-<a href="https://linkedin.com/in/diego-romero-3858b6208">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://discord.gg/diego_a_romero">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-</div>
